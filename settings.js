@@ -7,9 +7,9 @@ import { fileURLToPath } from "url"
 import fs from "fs"
 
 
-global.botNumber = ""
+global.botNumber = ""+212719505828
 
-global.botNumberCode = ""+212719505828
+global.botNumberCode = ""
 
 
 global.owner = [""] +212636391221
