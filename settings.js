@@ -9,10 +9,10 @@ import fs from "fs"
 
 global.botNumber = ""
 
-global.botNumberCode = ""  // حط رقم البوت هنا عشان يوصلك الكود
+global.botNumberCode = ""+212719505828
 
 
-global.owner = [""] // هنا رقم المطور
+global.owner = [""] +212636391221
 
 global.suittag = [""] 
 
